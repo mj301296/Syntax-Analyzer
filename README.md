@@ -1,4 +1,4 @@
------------------NOTE--------------
+-----------------NOTE--------------<br>
 Folder information:
 1.  project-1.js - Main file
 2.  desig-inits.sh - instruction to run the javascript file
