@@ -1,7 +1,3 @@
-Name:		Mrugank Chandrakant Jadhav
-B-Number:	B00972210
-Email:		mjadhav1@binghamton.edu
-
 -----------------NOTE--------------
 Folder information:
 1.  project-1.js - Main file
@@ -12,10 +8,8 @@ To run the fileReadSync enter thr following commands:
 2. npm install fs
 
 To run the tests cases enter the following command:
-/home/username/projects/cs571/projects/prj1/extras/do-tests.sh desig-inits.sh
+do-tests.sh desig-inits.sh
 
-Note for grader:
-I had submitted the final code on 09/18/22. Updated the references in the Readme file on 09/19/22.
 
 References:
 Multi-line code handling:
